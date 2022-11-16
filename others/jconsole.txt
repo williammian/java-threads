@@ -1,0 +1,5 @@
+Monitoramento das threads java
+
+no console (cmd)
+
+jconsole
