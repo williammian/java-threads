@@ -1,6 +1,7 @@
 /banheiro/bin
 /busca-textual/bin
 /threads/bin
+/servidor-tarefas/bin
 
 HELP.md
 target/
